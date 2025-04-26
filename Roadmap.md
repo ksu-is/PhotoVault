@@ -1,6 +1,6 @@
-1) Choose template
-2) Ensure that template works
-3) Make changes and personalize project
-4) Update Code
-5) Make powerpoint
+1) Choose template x
+2) Ensure that template works     x
+3) Make changes and personalize project    x
+4) Update Code     x
+5) Make powerpoint    
 6) 
